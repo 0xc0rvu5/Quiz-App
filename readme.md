@@ -1,1 +1,1 @@
-# Day-34 of 100 days of Python
+# Quiz App
